@@ -1,0 +1,8 @@
+{
+  "name": "pushNoti",
+  "app_id": "1c9535fd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
